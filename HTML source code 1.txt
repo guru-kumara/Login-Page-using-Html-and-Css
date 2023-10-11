@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Sairam Login</title>
+</head>
+<body>
+    
+    <div class="container">
+        <div class="container1">
+            <div class="logo">
+            <img src="letter-s_10077716.png" alt="image" style="width: 50px;">
+            </div>
+    <h1>Sairam</h1>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Help</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+   </div>
+   
+   </div>
+   <div class="image">
+   <nav>
+   <div class="fulllogin">
+    <form>
+   <h2>Sign In</h2>
+   <div class="login">
+    <input type="email" required="required" >
+    <span>Email</span>
+    <i></i>
+    </div>
+    <div class="login">
+        <input type="password" required="required">
+        <span>password</span>
+        <i></i>
+    </div>
+    <div class="login3">
+        <a href="#">Forget password</a>
+        <a href="#">SignUp</a>
+    </div>
+        <input type="submit" value="Login">
+    </form>
+   </div>   
+   </nav>
+   </div>
+   
+    
+</body>
+</html>
